@@ -60,8 +60,9 @@ All tests are passing! Below are the results from running the tests:
 
 `============================= test session starts ==============================`
 
-`collecting ... collected 8 items
-test_merge_two_sorted_lists.py::test_merge_two_lists_case_1 PASSED       [ 12%]
+`collecting ... collected 8 items`
+
+`test_merge_two_sorted_lists.py::test_merge_two_lists_case_1 PASSED       [ 12%]
 test_merge_two_sorted_lists.py::test_merge_two_lists_case_2 PASSED       [ 25%]
 test_merge_two_sorted_lists.py::test_merge_two_lists_case_3 PASSED       [ 37%]
 test_merge_two_sorted_lists.py::test_merge_two_lists_case_4 PASSED       [ 50%]
