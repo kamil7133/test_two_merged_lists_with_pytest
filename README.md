@@ -40,9 +40,6 @@ Comprehensive tests validate
 2. Install the required packages (if any).
 
 # Usage
-### To use the linked list and merge two sorted lists, you can run the following code:
-
-    from linked_list import ListNode, mergeTwoLists, list_to_linked_list, linked_list_to_list
 
 ### Example usage
     list1 = list_to_linked_list([1, 2, 4])
